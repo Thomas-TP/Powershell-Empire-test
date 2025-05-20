@@ -4,6 +4,12 @@
   </a>
 </div>
 
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/2024--2028-Geneva%20Institute%20of%20Technology-blue?style=for-the-badge" alt="Geneva Institute of Technology"/>
+    <p>CFC d'informaticien, Informatique</p>
+  </div>
+
 # Voici la procédure/démonstration de Powershell-empire (cours de Cybérsecurité Satom IT)
 ---
 # Installation de PowerShell-Empire sur Kali Linux
