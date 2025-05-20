@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=300&section=header&text=Thomas%%20P.&fontSize=90&fontAlignY=38&desc=%20%20%7C%20Informaticien%20%7C%20&descAlignY=60&animation=fadeIn" width="100%" alt="Empire Thomas Prud'homme">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=300&section=header&text=Thomas%20P.&fontSize=90&fontAlignY=38&desc=%20%20%7C%20Informaticien%20%7C%20&descAlignY=60&animation=fadeIn" width="100%" alt="Empire Thomas Prud'homme">
   </a>
 </div>
 
