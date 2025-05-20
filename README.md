@@ -174,3 +174,6 @@ https://vimeo.com/1085791100/a588dbfdf3?share=copy
 ### Powerpoint presentation
 <iframe src="https://gamma.app/embed/9b4oxogok1i92pq" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Installation et utilisation de PowerShell-Empire sur Kali Linux"></iframe>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=120&section=footer&animation=fadeIn" width="100%" alt="Pied de page">
+</div>
